@@ -1,2 +1,4 @@
 *.classpath
 StudentCenter/.settings/
+StudentCenter/target/
+StudentCenter/bin/
